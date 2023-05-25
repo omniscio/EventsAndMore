@@ -8,6 +8,8 @@ Added 1 Event: Robot Invasion, containing Invader Drone, Invader Hovercraft, Inv
 
 Added 1 Boss: Ocean Crystal, summoned by using the Crystal Mirror at the ocean once the Moon Lord and Spirit of the Mirror have both been defeated.
 
-Decreased the Panic Wings attack penalty from 20% to 10%.
+0.5 changes
 
-Increased the firing speed of the Tome of Fear.
+Added 9 items: the Sword of Ruin, Abyssal Dagger, Cursed Barrage Staff, Dark Energy Conduit, Spirit's Reaper, Blighted Crossbow, Dark Plasma Globe, Wisp Staff, and Death Emblem.
+
+Added 1 Event: Death Invasion, containing Death Soldier, Death Archer, Death Knight, Death Mage, Death Mound, Fly, Wisp, Deathly Fossil, and Greater Wisp, with the Witch-General, Sword-General, and Deathly Spirit as event bosses.
